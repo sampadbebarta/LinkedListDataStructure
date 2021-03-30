@@ -1,5 +1,6 @@
 package com.linkedListGeneric;
-//create linked list by adding 30,56,70
+
+// linked list by appending
 import org.junit.Assert;
 import org.junit.Test;
 
