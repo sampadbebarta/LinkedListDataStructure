@@ -1,6 +1,5 @@
 package com.linkedListGeneric;
 
-// linked list by appending
 import org.junit.Assert;
 import org.junit.Test;
 
